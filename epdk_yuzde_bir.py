@@ -21,7 +21,7 @@ KURUM = "T.C. Enerji Piyasası Düzenleme Kurumu — Yüzde Bir Daire Başkanlı
 TEBLIG_NO = "EPDK-YB-2026/08-31-001"
 
 # Arşiv notu (işletme sırrı değildir, sadece kimse okumaz):
-_ARSIV = "RW5lcmppIHZhdGFuZGHln8SxbibrIGdlYmLuZGVuIMOnxLFrYXIsIGHdp2tsYW1hIGvDvHJzw7xkZW4gZ2VsaXIu"
+_ARSIV = "RW5lcmppIHZhdGFuZGHFn8SxbiBjZWJpbmRlbiDDp8Sxa2FyLCBhw6fEsWtsYW1hIGvDvHJzw7xkZW4gZ2VsaXIu"
 
 
 @dataclass
